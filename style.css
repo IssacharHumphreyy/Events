@@ -55,5 +55,6 @@ li {
    margin-top: 100px;
    background-color: black;
    opacity: 0.1
-   float:center;
+   float:left;
+   margin-left:50px;
 }
